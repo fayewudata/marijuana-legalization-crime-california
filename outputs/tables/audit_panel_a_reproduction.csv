@@ -1,0 +1,7 @@
+outcome,thesis_coef_per_10k,reproduced_coef_per_10k,reproduced_p_clustered
+violent,4.83,4.31,0.105
+agg_assault,0.36,-0.1,0.927
+property,54.67,48.54,0.044
+burglary,17.81,16.11,0.126
+larceny,38.25,34.32,0.004
+mvt,-1.94,-2.11,0.709

@@ -1,0 +1,13 @@
+outcome,period,coef,se,p_value
+Violent crime,2016-2017 (possession only),59.5,30.2,0.049
+Violent crime,2018-2019 (retail sales),25.7,24.7,0.299
+Aggravated assault,2016-2017 (possession only),13.2,12.8,0.301
+Aggravated assault,2018-2019 (retail sales),-16.1,12.3,0.193
+Property crime,2016-2017 (possession only),388.5,199.4,0.052
+Property crime,2018-2019 (retail sales),589.4,287.5,0.041
+Burglary,2016-2017 (possession only),104.2,63.7,0.102
+Burglary,2018-2019 (retail sales),221.9,157.8,0.16
+Larceny-theft,2016-2017 (possession only),216.8,85.9,0.012
+Larceny-theft,2018-2019 (retail sales),478.7,170.3,0.005
+Motor vehicle theft,2016-2017 (possession only),63.3,74.2,0.394
+Motor vehicle theft,2018-2019 (retail sales),-111.3,69.1,0.108

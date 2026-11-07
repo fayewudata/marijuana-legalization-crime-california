@@ -1,0 +1,960 @@
+state,city,county,match_method
+CA,Adelanto,San Bernardino,unique_name_match
+CA,Agoura Hills,Los Angeles,manual
+CA,Alameda,Alameda,unique_name_match
+CA,Albany,Alameda,unique_name_match
+CA,Alhambra,Los Angeles,unique_name_match
+CA,Aliso Viejo,Orange,unique_name_match
+CA,Alturas,Modoc,unique_name_match
+CA,American Canyon,Napa,manual
+CA,Anaheim,Orange,unique_name_match
+CA,Anderson,Shasta,unique_name_match
+CA,Angels Camp,Calaveras,unique_name_match
+CA,Antioch,Contra Costa,unique_name_match
+CA,Apple Valley,San Bernardino,unique_name_match
+CA,Arcadia,Los Angeles,unique_name_match
+CA,Arcata,Humboldt,unique_name_match
+CA,Arroyo Grande,San Luis Obispo,unique_name_match
+CA,Artesia,Los Angeles,unique_name_match
+CA,Arvin,Kern,unique_name_match
+CA,Atascadero,San Luis Obispo,unique_name_match
+CA,Atherton,San Mateo,unique_name_match
+CA,Atwater,Merced,unique_name_match
+CA,Auburn,Placer,unique_name_match
+CA,Avalon,Los Angeles,unique_name_match
+CA,Avenal,Kings,unique_name_match
+CA,Azusa,Los Angeles,unique_name_match
+CA,Bakersfield,Kern,unique_name_match
+CA,Baldwin Park,Los Angeles,unique_name_match
+CA,Banning,Riverside,unique_name_match
+CA,Barstow,San Bernardino,unique_name_match
+CA,Bear Valley,Calaveras,unique_name_match
+CA,Beaumont,Riverside,unique_name_match
+CA,Bell,Los Angeles,unique_name_match
+CA,Bell Gardens,Los Angeles,unique_name_match
+CA,Bellflower,Los Angeles,unique_name_match
+CA,Belmont,San Mateo,unique_name_match
+CA,Belvedere,Marin,unique_name_match
+CA,Benicia,Solano,unique_name_match
+CA,Berkeley,Alameda,unique_name_match
+CA,Beverly Hills,Los Angeles,unique_name_match
+CA,Big Bear,San Bernardino,unique_name_match
+CA,Big Bear Lake,San Bernardino,unique_name_match
+CA,Biggs,Butte,unique_name_match
+CA,Bishop,Inyo,manual
+CA,Blythe,Riverside,manual
+CA,Bradbury,Los Angeles,unique_name_match
+CA,Brawley,Imperial,unique_name_match
+CA,Brea,Orange,unique_name_match
+CA,Brentwood,Contra Costa,unique_name_match
+CA,Brisbane,San Mateo,unique_name_match
+CA,Broadmoor,San Mateo,manual
+CA,Buellton,Santa Barbara,unique_name_match
+CA,Buena Park,Orange,unique_name_match
+CA,Burbank,Los Angeles,unique_name_match
+CA,Burlingame,San Mateo,unique_name_match
+CA,Calabasas,Los Angeles,unique_name_match
+CA,Calexico,Imperial,unique_name_match
+CA,California City,Kern,unique_name_match
+CA,Calimesa,Riverside,unique_name_match
+CA,Calistoga,Napa,unique_name_match
+CA,Camarillo,Ventura,unique_name_match
+CA,Campbell,Santa Clara,unique_name_match
+CA,Canyon Lake,Riverside,unique_name_match
+CA,Capitola,Santa Cruz,unique_name_match
+CA,Carlsbad,San Diego,unique_name_match
+CA,Carmel,Monterey,unique_name_match
+CA,Carpinteria,Santa Barbara,unique_name_match
+CA,Carson,Los Angeles,unique_name_match
+CA,Cathedral City,Riverside,unique_name_match
+CA,Central Marin,Marin,manual
+CA,Ceres,Stanislaus,unique_name_match
+CA,Cerritos,Los Angeles,unique_name_match
+CA,Chico,Butte,unique_name_match
+CA,Chino,San Bernardino,unique_name_match
+CA,Chino Hills,San Bernardino,unique_name_match
+CA,Chowchilla,Madera,unique_name_match
+CA,Chula Vista,San Diego,unique_name_match
+CA,Citrus Heights,Sacramento,unique_name_match
+CA,City of Angels,Calaveras,manual
+CA,Claremont,Los Angeles,unique_name_match
+CA,Clayton,Contra Costa,unique_name_match
+CA,Clearlake,Lake,unique_name_match
+CA,Cloverdale,Sonoma,unique_name_match
+CA,Clovis,Fresno,unique_name_match
+CA,Coachella,Riverside,unique_name_match
+CA,Coalinga,Fresno,unique_name_match
+CA,Colma,San Mateo,unique_name_match
+CA,Colton,San Bernardino,unique_name_match
+CA,Colusa,Colusa,unique_name_match
+CA,Commerce,Los Angeles,unique_name_match
+CA,Compton,Los Angeles,unique_name_match
+CA,Concord,Contra Costa,unique_name_match
+CA,Corcoran,Kings,manual
+CA,Corning,Tehama,unique_name_match
+CA,Corona,Riverside,unique_name_match
+CA,Coronado,San Diego,unique_name_match
+CA,Costa Mesa,Orange,unique_name_match
+CA,Cotati,Sonoma,unique_name_match
+CA,Covina,Los Angeles,unique_name_match
+CA,Crescent City,Del Norte,unique_name_match
+CA,Cudahy,Los Angeles,unique_name_match
+CA,Culver City,Los Angeles,unique_name_match
+CA,Cupertino,Santa Clara,unique_name_match
+CA,Cypress,Orange,unique_name_match
+CA,Daly City,San Mateo,unique_name_match
+CA,Dana Point,Orange,unique_name_match
+CA,Danville,Contra Costa,unique_name_match
+CA,Davis,Yolo,unique_name_match
+CA,Del Mar,San Diego,unique_name_match
+CA,Del Rey Oaks,Monterey,unique_name_match
+CA,Delano,Kern,unique_name_match
+CA,Desert Hot Springs,Riverside,unique_name_match
+CA,Diamond Bar,Los Angeles,unique_name_match
+CA,Dinuba,Tulare,unique_name_match
+CA,Dixon,Solano,unique_name_match
+CA,Dorris,Siskiyou,unique_name_match
+CA,Dos Palos,Merced,unique_name_match
+CA,Downey,Los Angeles,unique_name_match
+CA,Duarte,Los Angeles,unique_name_match
+CA,Dublin,Alameda,unique_name_match
+CA,Dunsmuir,Siskiyou,unique_name_match
+CA,East Palo Alto,Santa Clara,unique_name_match
+CA,Eastvale,Riverside,unique_name_match
+CA,El Cajon,San Diego,unique_name_match
+CA,El Centro,Imperial,unique_name_match
+CA,El Cerrito,Contra Costa,unique_name_match
+CA,El Monte,Los Angeles,unique_name_match
+CA,El Segundo,Los Angeles,unique_name_match
+CA,Elk Grove,Sacramento,unique_name_match
+CA,Emeryville,Alameda,unique_name_match
+CA,Encinitas,San Diego,unique_name_match
+CA,Escalon,San Joaquin,unique_name_match
+CA,Escondido,San Diego,unique_name_match
+CA,Etna,Siskiyou,unique_name_match
+CA,Eureka,Humboldt,unique_name_match
+CA,Exeter,Tulare,unique_name_match
+CA,Fairfax,Marin,unique_name_match
+CA,Fairfield,Solano,unique_name_match
+CA,Farmersville,Tulare,unique_name_match
+CA,Ferndale,Humboldt,unique_name_match
+CA,Fillmore,Ventura,unique_name_match
+CA,Firebaugh,Fresno,unique_name_match
+CA,Folsom,Sacramento,manual
+CA,Fontana,San Bernardino,unique_name_match
+CA,Fort Bragg,Mendocino,unique_name_match
+CA,Fort Jones,Siskiyou,unique_name_match
+CA,Fortuna,Humboldt,unique_name_match
+CA,Foster City,San Mateo,unique_name_match
+CA,Fountain Valley,Orange,unique_name_match
+CA,Fowler,Fresno,unique_name_match
+CA,Fremont,Alameda,unique_name_match
+CA,Fresno,Fresno,unique_name_match
+CA,Fullerton,Orange,unique_name_match
+CA,Galt,Sacramento,unique_name_match
+CA,Garden Grove,Orange,unique_name_match
+CA,Gardena,Los Angeles,unique_name_match
+CA,Gilroy,Santa Clara,unique_name_match
+CA,Glendale,Los Angeles,unique_name_match
+CA,Glendora,Los Angeles,unique_name_match
+CA,Goleta,Santa Barbara,unique_name_match
+CA,Gonzales,Monterey,unique_name_match
+CA,Grand Terrace,San Bernardino,unique_name_match
+CA,Grass Valley,Nevada,unique_name_match
+CA,Greenfield,Monterey,unique_name_match
+CA,Gridley,Butte,unique_name_match
+CA,Grover Beach,San Luis Obispo,unique_name_match
+CA,Guadalupe,Santa Barbara,unique_name_match
+CA,Gustine,Merced,unique_name_match
+CA,Hanford,Kings,unique_name_match
+CA,Hawaiian Gardens,Los Angeles,unique_name_match
+CA,Hawthorne,Los Angeles,unique_name_match
+CA,Hayward,Alameda,unique_name_match
+CA,Healdsburg,Sonoma,unique_name_match
+CA,Hemet,Riverside,unique_name_match
+CA,Hercules,Contra Costa,unique_name_match
+CA,Hermosa Beach,Los Angeles,unique_name_match
+CA,Hesperia,San Bernardino,unique_name_match
+CA,Hidden Hills,Los Angeles,unique_name_match
+CA,Highland,San Bernardino,unique_name_match
+CA,Hillsborough,San Mateo,unique_name_match
+CA,Hollister,San Benito,unique_name_match
+CA,Holtville,Imperial,unique_name_match
+CA,Hughson,Stanislaus,unique_name_match
+CA,Huntington Beach,Orange,unique_name_match
+CA,Huntington Park,Los Angeles,unique_name_match
+CA,Huron,Fresno,unique_name_match
+CA,Imperial,Imperial,unique_name_match
+CA,Imperial Beach,San Diego,unique_name_match
+CA,Indian Wells,Riverside,unique_name_match
+CA,Indio,Riverside,unique_name_match
+CA,Industry,Los Angeles,manual
+CA,Inglewood,Los Angeles,unique_name_match
+CA,Ione,Amador,unique_name_match
+CA,Irvine,Orange,unique_name_match
+CA,Irwindale,Los Angeles,unique_name_match
+CA,Isleton,Sacramento,unique_name_match
+CA,Jackson,Amador,unique_name_match
+CA,Jurupa Valley,Riverside,unique_name_match
+CA,Kensington,Alameda,unique_name_match
+CA,Kerman,Fresno,unique_name_match
+CA,King City,Monterey,unique_name_match
+CA,Kingsburg,Fresno,unique_name_match
+CA,La Canada Flintridge,Los Angeles,unique_name_match
+CA,La Habra,Orange,unique_name_match
+CA,La Habra Heights,Orange,unique_name_match
+CA,La Mesa,San Diego,unique_name_match
+CA,La Mirada,Los Angeles,unique_name_match
+CA,La Palma,Orange,unique_name_match
+CA,La Puente,Los Angeles,unique_name_match
+CA,La Quinta,Riverside,unique_name_match
+CA,La Verne,Los Angeles,unique_name_match
+CA,Lafayette,Contra Costa,unique_name_match
+CA,Laguna Beach,Orange,unique_name_match
+CA,Laguna Hills,Orange,unique_name_match
+CA,Laguna Niguel,Orange,unique_name_match
+CA,Laguna Woods,Orange,unique_name_match
+CA,Lake Elsinore,Riverside,unique_name_match
+CA,Lake Forest,Orange,unique_name_match
+CA,Lake Shastina,Siskiyou,manual
+CA,Lakeport,Lake,unique_name_match
+CA,Lakewood,Los Angeles,unique_name_match
+CA,Lancaster,Los Angeles,unique_name_match
+CA,Lawndale,Los Angeles,unique_name_match
+CA,Lemon Grove,San Diego,unique_name_match
+CA,Lemoore,Kings,unique_name_match
+CA,Lincoln,Placer,unique_name_match
+CA,Lindsay,Tulare,unique_name_match
+CA,Livermore,Alameda,unique_name_match
+CA,Livingston,Merced,unique_name_match
+CA,Lodi,San Joaquin,unique_name_match
+CA,Loma Linda,San Bernardino,unique_name_match
+CA,Lomita,Los Angeles,unique_name_match
+CA,Lompoc,Santa Barbara,unique_name_match
+CA,Long Beach,Los Angeles,unique_name_match
+CA,Los Alamitos,Orange,unique_name_match
+CA,Los Altos,Santa Clara,unique_name_match
+CA,Los Altos Hills,Santa Clara,unique_name_match
+CA,Los Angeles,Los Angeles,unique_name_match
+CA,Los Banos,Merced,unique_name_match
+CA,Los Gatos,Santa Clara,manual
+CA,Lynwood,Los Angeles,unique_name_match
+CA,Madera,Madera,unique_name_match
+CA,Malibu,Los Angeles,unique_name_match
+CA,Mammoth Lakes,Mono,unique_name_match
+CA,Manhattan Beach,Los Angeles,unique_name_match
+CA,Manteca,San Joaquin,unique_name_match
+CA,Marina,Monterey,unique_name_match
+CA,Martinez,Contra Costa,unique_name_match
+CA,Marysville,Yuba,unique_name_match
+CA,Maywood,Los Angeles,unique_name_match
+CA,McFarland,Kern,unique_name_match
+CA,Mendota,Fresno,unique_name_match
+CA,Menifee,Riverside,unique_name_match
+CA,Menlo Park,San Mateo,unique_name_match
+CA,Merced,Merced,unique_name_match
+CA,Mill Valley,Marin,unique_name_match
+CA,Milpitas,Santa Clara,unique_name_match
+CA,Mission Viejo,Orange,unique_name_match
+CA,Modesto,Stanislaus,unique_name_match
+CA,Monrovia,Los Angeles,unique_name_match
+CA,Montague,Siskiyou,unique_name_match
+CA,Montclair,San Bernardino,unique_name_match
+CA,Monte Sereno,Santa Clara,unique_name_match
+CA,Montebello,Los Angeles,unique_name_match
+CA,Monterey,Monterey,unique_name_match
+CA,Monterey Park,Los Angeles,unique_name_match
+CA,Moorpark,Ventura,unique_name_match
+CA,Moraga,Contra Costa,unique_name_match
+CA,Moreno Valley,Riverside,unique_name_match
+CA,Morgan Hill,Santa Clara,unique_name_match
+CA,Morro Bay,San Luis Obispo,unique_name_match
+CA,Mount Shasta,Siskiyou,unique_name_match
+CA,Mountain View,Santa Clara,unique_name_match
+CA,Murrieta,Riverside,unique_name_match
+CA,Napa,Napa,unique_name_match
+CA,National City,San Diego,unique_name_match
+CA,Needles,San Bernardino,unique_name_match
+CA,Nevada City,Nevada,unique_name_match
+CA,Newark,Alameda,unique_name_match
+CA,Newman,Stanislaus,unique_name_match
+CA,Newport Beach,Orange,unique_name_match
+CA,Norco,Riverside,unique_name_match
+CA,Norwalk,Los Angeles,unique_name_match
+CA,Novato,Marin,unique_name_match
+CA,Oakdale,Stanislaus,unique_name_match
+CA,Oakland,Alameda,unique_name_match
+CA,Oakley,Contra Costa,unique_name_match
+CA,Oceanside,San Diego,unique_name_match
+CA,Ojai,Ventura,unique_name_match
+CA,Ontario,San Bernardino,unique_name_match
+CA,Orange,Orange,unique_name_match
+CA,Orange Cove,Fresno,unique_name_match
+CA,Orinda,Contra Costa,unique_name_match
+CA,Orland,Glenn,unique_name_match
+CA,Oroville,Butte,manual
+CA,Oxnard,Ventura,unique_name_match
+CA,Pacific Grove,Monterey,unique_name_match
+CA,Pacifica,San Mateo,unique_name_match
+CA,Palm Desert,Riverside,unique_name_match
+CA,Palm Springs,Riverside,unique_name_match
+CA,Palmdale,Los Angeles,unique_name_match
+CA,Palo Alto,Santa Clara,unique_name_match
+CA,Palos Verdes Estates,Los Angeles,unique_name_match
+CA,Paradise,Butte,unique_name_match
+CA,Paramount,Los Angeles,unique_name_match
+CA,Parlier,Fresno,unique_name_match
+CA,Pasadena,Los Angeles,unique_name_match
+CA,Paso Robles,San Luis Obispo,unique_name_match
+CA,Patterson,Stanislaus,unique_name_match
+CA,Perris,Riverside,unique_name_match
+CA,Petaluma,Sonoma,unique_name_match
+CA,Pico Rivera,Los Angeles,unique_name_match
+CA,Piedmont,Alameda,unique_name_match
+CA,Pinole,Contra Costa,unique_name_match
+CA,Pismo Beach,San Luis Obispo,unique_name_match
+CA,Pittsburg,Contra Costa,unique_name_match
+CA,Placentia,Orange,unique_name_match
+CA,Placerville,El Dorado,unique_name_match
+CA,Pleasant Hill,Contra Costa,unique_name_match
+CA,Pleasanton,Alameda,unique_name_match
+CA,Pomona,Los Angeles,unique_name_match
+CA,Port Hueneme,Ventura,unique_name_match
+CA,Porterville,Tulare,unique_name_match
+CA,Poway,San Diego,unique_name_match
+CA,Rancho Cordova,Sacramento,unique_name_match
+CA,Rancho Cucamonga,San Bernardino,unique_name_match
+CA,Rancho Mirage,Riverside,unique_name_match
+CA,Rancho Palos Verdes,Los Angeles,unique_name_match
+CA,Rancho Santa Margarita,Orange,unique_name_match
+CA,Red Bluff,Tehama,unique_name_match
+CA,Redding,Shasta,unique_name_match
+CA,Redlands,San Bernardino,unique_name_match
+CA,Redondo Beach,Los Angeles,unique_name_match
+CA,Redwood City,San Mateo,unique_name_match
+CA,Reedley,Fresno,unique_name_match
+CA,Rialto,San Bernardino,unique_name_match
+CA,Richmond,Contra Costa,unique_name_match
+CA,Ridgecrest,Kern,unique_name_match
+CA,Rio Dell,Humboldt,unique_name_match
+CA,Rio Vista,Solano,unique_name_match
+CA,Ripon,San Joaquin,unique_name_match
+CA,Riverbank,Stanislaus,manual
+CA,Riverside,Riverside,unique_name_match
+CA,Rocklin,Placer,unique_name_match
+CA,Rohnert Park,Sonoma,unique_name_match
+CA,Rolling Hills,Los Angeles,unique_name_match
+CA,Rolling Hills Estates,Los Angeles,unique_name_match
+CA,Rosemead,Los Angeles,unique_name_match
+CA,Roseville,Placer,unique_name_match
+CA,Ross,Marin,unique_name_match
+CA,Sacramento,Sacramento,unique_name_match
+CA,Salinas,Monterey,unique_name_match
+CA,San Bernardino,San Bernardino,unique_name_match
+CA,San Bruno,San Mateo,unique_name_match
+CA,San Clemente,Orange,unique_name_match
+CA,San Diego,San Diego,unique_name_match
+CA,San Dimas,Los Angeles,unique_name_match
+CA,San Fernando,Los Angeles,unique_name_match
+CA,San Francisco,San Francisco,manual
+CA,San Gabriel,Los Angeles,unique_name_match
+CA,San Jacinto,Riverside,unique_name_match
+CA,San Jose,Santa Clara,unique_name_match
+CA,San Juan Capistrano,Orange,unique_name_match
+CA,San Leandro,Alameda,unique_name_match
+CA,San Luis Obispo,San Luis Obispo,unique_name_match
+CA,San Marcos,San Diego,unique_name_match
+CA,San Marino,Los Angeles,unique_name_match
+CA,San Mateo,San Mateo,unique_name_match
+CA,San Pablo,Contra Costa,unique_name_match
+CA,San Rafael,Marin,unique_name_match
+CA,San Ramon,Contra Costa,unique_name_match
+CA,Sand City,Monterey,unique_name_match
+CA,Sanger,Fresno,unique_name_match
+CA,Santa Ana,Orange,unique_name_match
+CA,Santa Barbara,Santa Barbara,unique_name_match
+CA,Santa Clara,Santa Clara,unique_name_match
+CA,Santa Clarita,Los Angeles,unique_name_match
+CA,Santa Cruz,Santa Cruz,unique_name_match
+CA,Santa Fe Springs,Los Angeles,unique_name_match
+CA,Santa Maria,Santa Barbara,unique_name_match
+CA,Santa Monica,Los Angeles,unique_name_match
+CA,Santa Paula,Ventura,unique_name_match
+CA,Santa Rosa,Sonoma,unique_name_match
+CA,Santee,San Diego,unique_name_match
+CA,Saratoga,Santa Clara,unique_name_match
+CA,Sausalito,Marin,unique_name_match
+CA,Scotts Valley,Santa Cruz,unique_name_match
+CA,Seal Beach,Orange,unique_name_match
+CA,Seaside,Monterey,unique_name_match
+CA,Sebastopol,Sonoma,unique_name_match
+CA,Selma,Fresno,unique_name_match
+CA,Shafter,Kern,unique_name_match
+CA,Sierra Madre,Los Angeles,unique_name_match
+CA,Signal Hill,Los Angeles,unique_name_match
+CA,Simi Valley,Ventura,unique_name_match
+CA,Solana Beach,San Diego,unique_name_match
+CA,Soledad,Monterey,unique_name_match
+CA,Solvang,Santa Barbara,unique_name_match
+CA,Sonoma,Sonoma,unique_name_match
+CA,Sonora,Tuolumne,unique_name_match
+CA,South El Monte,Los Angeles,unique_name_match
+CA,South Gate,Los Angeles,unique_name_match
+CA,South Lake Tahoe,El Dorado,unique_name_match
+CA,South Pasadena,Los Angeles,unique_name_match
+CA,South San Francisco,San Mateo,unique_name_match
+CA,St. Helena,Napa,unique_name_match
+CA,Stallion Springs,Kern,unique_name_match
+CA,Stanton,Orange,unique_name_match
+CA,Stockton,San Joaquin,unique_name_match
+CA,Suisun City,Solano,unique_name_match
+CA,Sunnyvale,Santa Clara,unique_name_match
+CA,Susanville,Lassen,unique_name_match
+CA,Sutter Creek,Amador,unique_name_match
+CA,Taft,Kern,unique_name_match
+CA,Tehachapi,Kern,unique_name_match
+CA,Temecula,Riverside,unique_name_match
+CA,Temple City,Los Angeles,unique_name_match
+CA,Thousand Oaks,Ventura,unique_name_match
+CA,Tiburon,Marin,unique_name_match
+CA,Torrance,Los Angeles,unique_name_match
+CA,Tracy,San Joaquin,unique_name_match
+CA,Truckee,Nevada,unique_name_match
+CA,Tulare,Tulare,unique_name_match
+CA,Tulelake,Siskiyou,unique_name_match
+CA,Turlock,Stanislaus,unique_name_match
+CA,Tustin,Orange,unique_name_match
+CA,Twentynine Palms,San Bernardino,unique_name_match
+CA,Ukiah,Mendocino,unique_name_match
+CA,Union City,Alameda,unique_name_match
+CA,Upland,San Bernardino,unique_name_match
+CA,Vacaville,Solano,unique_name_match
+CA,Vallejo,Solano,manual
+CA,Ventura,Ventura,unique_name_match
+CA,Vernon,Los Angeles,unique_name_match
+CA,Victorville,San Bernardino,unique_name_match
+CA,Villa Park,Orange,unique_name_match
+CA,Visalia,Tulare,unique_name_match
+CA,Vista,San Diego,unique_name_match
+CA,Walnut,Los Angeles,unique_name_match
+CA,Walnut Creek,Contra Costa,unique_name_match
+CA,Waterford,Stanislaus,unique_name_match
+CA,Watsonville,Santa Cruz,unique_name_match
+CA,Weed,Siskiyou,unique_name_match
+CA,West Covina,Los Angeles,unique_name_match
+CA,West Hollywood,Los Angeles,unique_name_match
+CA,West Sacramento,Yolo,unique_name_match
+CA,Westlake Village,Ventura,unique_name_match
+CA,Westminster,Orange,unique_name_match
+CA,Westmorland,Imperial,unique_name_match
+CA,Wheatland,Yuba,unique_name_match
+CA,Whittier,Los Angeles,unique_name_match
+CA,Wildomar,Riverside,unique_name_match
+CA,Williams,Colusa,unique_name_match
+CA,Willits,Mendocino,unique_name_match
+CA,Willows,Glenn,unique_name_match
+CA,Windsor,Sonoma,unique_name_match
+CA,Winters,Yolo,unique_name_match
+CA,Woodlake,Tulare,unique_name_match
+CA,Woodland,Yolo,unique_name_match
+CA,Yorba Linda,Orange,unique_name_match
+CA,Yountville,Napa,unique_name_match
+CA,Yreka,Siskiyou,unique_name_match
+CA,Yuba City,Sutter,unique_name_match
+CA,Yucaipa,San Bernardino,unique_name_match
+CA,Yucca Valley,San Bernardino,unique_name_match
+ID,Aberdeen,Bingham,unique_name_match
+ID,American Falls,Power,unique_name_match
+ID,Ashton,Fremont,unique_name_match
+ID,Bellevue,Blaine,unique_name_match
+ID,Blackfoot,Bingham,unique_name_match
+ID,Boise,Ada,unique_name_match
+ID,Bonners Ferry,Boundary,unique_name_match
+ID,Buhl,Twin Falls,unique_name_match
+ID,Caldwell,Canyon,unique_name_match
+ID,Cascade,Valley,unique_name_match
+ID,Challis,Custer,manual
+ID,Chubbuck,Bannock,unique_name_match
+ID,Coeur d'Alene,Kootenai,unique_name_match
+ID,Cottonwood,Idaho,unique_name_match
+ID,Emmett,Gem,unique_name_match
+ID,Filer,Twin Falls,unique_name_match
+ID,Fruitland,Payette,unique_name_match
+ID,Garden City,Ada,unique_name_match
+ID,Gooding,Gooding,unique_name_match
+ID,Grangeville,Idaho,unique_name_match
+ID,Hagerman,Gooding,unique_name_match
+ID,Hailey,Blaine,unique_name_match
+ID,Heyburn,Minidoka,unique_name_match
+ID,Homedale,Owyhee,unique_name_match
+ID,Idaho City,Boise,unique_name_match
+ID,Idaho Falls,Bonneville,unique_name_match
+ID,Jerome,Jerome,unique_name_match
+ID,Kamiah,Lewis,unique_name_match
+ID,Kellogg,Shoshone,unique_name_match
+ID,Ketchum,Blaine,unique_name_match
+ID,Kimberly,Twin Falls,unique_name_match
+ID,Lewiston,Nez Perce,unique_name_match
+ID,McCall,Valley,unique_name_match
+ID,Meridian,Ada,unique_name_match
+ID,Middleton,Canyon,unique_name_match
+ID,Montpelier,Bear Lake,unique_name_match
+ID,Moscow,Latah,unique_name_match
+ID,Mountain Home,Elmore,unique_name_match
+ID,Nampa,Canyon,unique_name_match
+ID,Orofino,Clearwater,unique_name_match
+ID,Osburn,Shoshone,unique_name_match
+ID,Parma,Canyon,unique_name_match
+ID,Payette,Payette,unique_name_match
+ID,Pinehurst,Shoshone,unique_name_match
+ID,Pocatello,Bannock,manual
+ID,Ponderay,Bonner,unique_name_match
+ID,Post Falls,Kootenai,unique_name_match
+ID,Preston,Franklin,unique_name_match
+ID,Priest River,Bonner,unique_name_match
+ID,Rathdrum,Kootenai,unique_name_match
+ID,Rexburg,Madison,unique_name_match
+ID,Rigby,Jefferson,unique_name_match
+ID,Rupert,Minidoka,unique_name_match
+ID,Salmon,Lemhi,unique_name_match
+ID,Sandpoint,Bonner,unique_name_match
+ID,Shelley,Bingham,unique_name_match
+ID,Shoshone,Lincoln,unique_name_match
+ID,Soda Springs,Caribou,unique_name_match
+ID,Spirit Lake,Kootenai,unique_name_match
+ID,St. Anthony,Fremont,unique_name_match
+ID,St. Maries,Benewah,unique_name_match
+ID,Sun Valley,Blaine,unique_name_match
+ID,Twin Falls,Twin Falls,unique_name_match
+ID,Weiser,Washington,unique_name_match
+ID,Wendell,Gooding,unique_name_match
+ID,Wilder,Canyon,unique_name_match
+KS,Abilene,Dickinson,unique_name_match
+KS,Alma,Wabaunsee,unique_name_match
+KS,Alta Vista,Wabaunsee,unique_name_match
+KS,Altamont,Labette,unique_name_match
+KS,Andale,Sedgwick,unique_name_match
+KS,Andover,Butler,unique_name_match
+KS,Anthony,Harper,unique_name_match
+KS,Argonia,Sumner,unique_name_match
+KS,Arkansas City,Cowley,unique_name_match
+KS,Arma,Crawford,unique_name_match
+KS,Assaria,Saline,unique_name_match
+KS,Atchison,Atchison,unique_name_match
+KS,Attica,Harper,unique_name_match
+KS,Atwood,Rawlins,unique_name_match
+KS,Auburn,Shawnee,unique_name_match
+KS,Augusta,Butler,unique_name_match
+KS,Baldwin City,Douglas,unique_name_match
+KS,Basehor,Leavenworth,manual
+KS,Baxter Springs,Cherokee,unique_name_match
+KS,Bel Aire,Sedgwick,unique_name_match
+KS,Belle Plaine,Sumner,unique_name_match
+KS,Belleville,Republic,unique_name_match
+KS,Beloit,Mitchell,unique_name_match
+KS,Bentley,Sedgwick,unique_name_match
+KS,Benton,Butler,unique_name_match
+KS,Bonner Springs,Wyandotte,unique_name_match
+KS,Bronson,Bourbon,unique_name_match
+KS,Bucklin,Ford,unique_name_match
+KS,Burden,Cowley,unique_name_match
+KS,Burlington,Coffey,unique_name_match
+KS,Burns,Marion,unique_name_match
+KS,Burrton,Harvey,unique_name_match
+KS,Bushton,Rice,unique_name_match
+KS,Caney,Montgomery,unique_name_match
+KS,Carbondale,Osage,unique_name_match
+KS,Chanute,Neosho,unique_name_match
+KS,Chase,Rice,unique_name_match
+KS,Cheney,Sedgwick,unique_name_match
+KS,Cherryvale,Montgomery,unique_name_match
+KS,Chetopa,Labette,unique_name_match
+KS,Claflin,Barton,unique_name_match
+KS,Clay Center,Clay,unique_name_match
+KS,Clearwater,Sedgwick,unique_name_match
+KS,Coffeyville,Montgomery,unique_name_match
+KS,Colby,Thomas,unique_name_match
+KS,Colony,Anderson,unique_name_match
+KS,Columbus,Cherokee,unique_name_match
+KS,Colwich,Sedgwick,unique_name_match
+KS,Concordia,Cloud,unique_name_match
+KS,Conway Springs,Sumner,unique_name_match
+KS,Council Grove,Morris,unique_name_match
+KS,Delphos,Ottawa,unique_name_match
+KS,Derby,Sedgwick,unique_name_match
+KS,Dodge City,Ford,unique_name_match
+KS,Eastborough,Sedgwick,unique_name_match
+KS,Edwardsville,Wyandotte,unique_name_match
+KS,El Dorado,Butler,unique_name_match
+KS,Elkhart,Morton,unique_name_match
+KS,Ellinwood,Barton,unique_name_match
+KS,Ellis,Ellis,unique_name_match
+KS,Ellsworth,Ellsworth,unique_name_match
+KS,Elwood,Doniphan,unique_name_match
+KS,Emporia,Lyon,unique_name_match
+KS,Enterprise,Dickinson,unique_name_match
+KS,Eudora,Douglas,unique_name_match
+KS,Fairway,Johnson,unique_name_match
+KS,Fort Scott,Bourbon,unique_name_match
+KS,Frankfort,Marshall,unique_name_match
+KS,Fredonia,Wilson,unique_name_match
+KS,Frontenac,Crawford,unique_name_match
+KS,Galena,Cherokee,unique_name_match
+KS,Garden City,Finney,unique_name_match
+KS,Garden Plain,Sedgwick,unique_name_match
+KS,Gardner,Johnson,unique_name_match
+KS,Garnett,Anderson,unique_name_match
+KS,Girard,Crawford,unique_name_match
+KS,Goddard,Sedgwick,unique_name_match
+KS,Goessel,Marion,unique_name_match
+KS,Goodland,Sherman,unique_name_match
+KS,Grandview Plaza,Geary,manual
+KS,Great Bend,Barton,unique_name_match
+KS,Greensburg,Kiowa,unique_name_match
+KS,Halstead,Harvey,unique_name_match
+KS,Haven,Reno,unique_name_match
+KS,Havensville,Pottawatomie,unique_name_match
+KS,Hays,Ellis,unique_name_match
+KS,Haysville,Sedgwick,unique_name_match
+KS,Herington,Dickinson,unique_name_match
+KS,Hesston,Harvey,unique_name_match
+KS,Hiawatha,Brown,unique_name_match
+KS,Highland,Doniphan,unique_name_match
+KS,Hill City,Graham,unique_name_match
+KS,Hillsboro,Marion,unique_name_match
+KS,Hoisington,Barton,unique_name_match
+KS,Holcomb,Finney,unique_name_match
+KS,Holton,Jackson,unique_name_match
+KS,Holyrood,Ellsworth,unique_name_match
+KS,Horton,Brown,unique_name_match
+KS,Hoxie,Sheridan,unique_name_match
+KS,Hugoton,Stevens,unique_name_match
+KS,Humboldt,Allen,unique_name_match
+KS,Hutchinson,Reno,unique_name_match
+KS,Independence,Montgomery,unique_name_match
+KS,Inman,Mcpherson,unique_name_match
+KS,Iola,Allen,unique_name_match
+KS,Junction City,Geary,unique_name_match
+KS,Kanopolis,Ellsworth,unique_name_match
+KS,Kansas City,Wyandotte,unique_name_match
+KS,Kingman,Kingman,unique_name_match
+KS,La Harpe,Allen,unique_name_match
+KS,Lake Quivira,Johnson,unique_name_match
+KS,Lansing,Leavenworth,unique_name_match
+KS,Larned,Pawnee,unique_name_match
+KS,Lawrence,Douglas,unique_name_match
+KS,Le Roy,Coffey,unique_name_match
+KS,Leavenworth,Leavenworth,unique_name_match
+KS,Leawood,Johnson,unique_name_match
+KS,Lebo,Coffey,unique_name_match
+KS,Lenexa,Johnson,unique_name_match
+KS,Liberal,Seward,unique_name_match
+KS,Lindsborg,Mcpherson,unique_name_match
+KS,Little River,Rice,unique_name_match
+KS,Louisburg,Miami,unique_name_match
+KS,Lyndon,Osage,unique_name_match
+KS,Lyons,Rice,unique_name_match
+KS,Macksville,Stafford,unique_name_match
+KS,Maize,Sedgwick,unique_name_match
+KS,Maple Hill,Wabaunsee,unique_name_match
+KS,Marion,Marion,unique_name_match
+KS,Marysville,Marshall,unique_name_match
+KS,Mayetta,Jackson,unique_name_match
+KS,McLouth,Jefferson,unique_name_match
+KS,McPherson,Mcpherson,unique_name_match
+KS,Meade,Meade,unique_name_match
+KS,Medicine Lodge,Barber,unique_name_match
+KS,Merriam,Johnson,unique_name_match
+KS,Minneapolis,Ottawa,unique_name_match
+KS,Mission,Johnson,unique_name_match
+KS,Mission Hills,Johnson,unique_name_match
+KS,Montezuma,Gray,unique_name_match
+KS,Moran,Allen,unique_name_match
+KS,Mound City,Linn,unique_name_match
+KS,Mount Hope,Sedgwick,unique_name_match
+KS,Mulberry,Crawford,unique_name_match
+KS,Mulvane,Sedgwick,unique_name_match
+KS,Neodesha,Wilson,unique_name_match
+KS,Newton,Harvey,unique_name_match
+KS,North Newton,Harvey,unique_name_match
+KS,Norton,Norton,unique_name_match
+KS,Nortonville,Jefferson,unique_name_match
+KS,Oakley,Logan,unique_name_match
+KS,Oberlin,Decatur,unique_name_match
+KS,Olathe,Johnson,unique_name_match
+KS,Osage City,Osage,unique_name_match
+KS,Osawatomie,Miami,unique_name_match
+KS,Osborne,Osborne,unique_name_match
+KS,Oskaloosa,Jefferson,unique_name_match
+KS,Oswego,Labette,unique_name_match
+KS,Ottawa,Franklin,unique_name_match
+KS,Overland Park,Johnson,unique_name_match
+KS,Oxford,Sumner,unique_name_match
+KS,Ozawkie,Jefferson,unique_name_match
+KS,Paola,Miami,unique_name_match
+KS,Park City,Sedgwick,unique_name_match
+KS,Parsons,Labette,unique_name_match
+KS,Peabody,Marion,unique_name_match
+KS,Perry,Jefferson,unique_name_match
+KS,Pittsburg,Crawford,unique_name_match
+KS,Plainville,Rooks,unique_name_match
+KS,Pleasanton,Linn,unique_name_match
+KS,Prairie Village,Johnson,unique_name_match
+KS,Pratt,Pratt,unique_name_match
+KS,Rose Hill,Butler,unique_name_match
+KS,Rossville,Shawnee,unique_name_match
+KS,Russell,Russell,unique_name_match
+KS,Sabetha,Nemaha,unique_name_match
+KS,Salina,Saline,unique_name_match
+KS,Scott City,Scott,unique_name_match
+KS,Scranton,Osage,unique_name_match
+KS,Sedgwick,Harvey,unique_name_match
+KS,Seneca,Nemaha,unique_name_match
+KS,Shawnee,Johnson,unique_name_match
+KS,South Hutchinson,Reno,unique_name_match
+KS,Spearville,Ford,unique_name_match
+KS,Spring Hill,Johnson,unique_name_match
+KS,St. Francis,Cheyenne,unique_name_match
+KS,St. George,Pottawatomie,unique_name_match
+KS,St. John,Stafford,unique_name_match
+KS,St. Marys,Pottawatomie,unique_name_match
+KS,Stafford,Stafford,unique_name_match
+KS,Sterling,Rice,unique_name_match
+KS,Stockton,Rooks,unique_name_match
+KS,Tonganoxie,Leavenworth,unique_name_match
+KS,Topeka,Shawnee,unique_name_match
+KS,Troy,Doniphan,unique_name_match
+KS,Ulysses,Grant,unique_name_match
+KS,Valley Center,Sedgwick,unique_name_match
+KS,Valley Falls,Jefferson,unique_name_match
+KS,Victoria,Ellis,unique_name_match
+KS,Wa Keeney,Trego,unique_name_match
+KS,Walton,Harvey,unique_name_match
+KS,Wamego,Pottawatomie,unique_name_match
+KS,Waterville,Marshall,unique_name_match
+KS,Wathena,Doniphan,unique_name_match
+KS,Waverly,Coffey,unique_name_match
+KS,Wellington,Sumner,unique_name_match
+KS,Wellsville,Franklin,unique_name_match
+KS,Westwood,Johnson,unique_name_match
+KS,Wichita,Sedgwick,unique_name_match
+KS,Winchester,Jefferson,unique_name_match
+KS,Winfield,Cowley,unique_name_match
+KS,Yates Center,Woodson,unique_name_match
+SC,Abbeville,Abbeville,unique_name_match
+SC,Aiken,Aiken,unique_name_match
+SC,Allendale,Allendale,unique_name_match
+SC,Anderson,Anderson,unique_name_match
+SC,Andrews,Georgetown,unique_name_match
+SC,Atlantic Beach,Horry,unique_name_match
+SC,Aynor,Horry,unique_name_match
+SC,Bamberg,Bamberg,unique_name_match
+SC,Barnwell,Barnwell,unique_name_match
+SC,Batesburg-Leesville,Lexington,unique_name_match
+SC,Beaufort,Beaufort,unique_name_match
+SC,Belton,Anderson,unique_name_match
+SC,Bennettsville,Marlboro,unique_name_match
+SC,Bethune,Kershaw,unique_name_match
+SC,Bishopville,Lee,unique_name_match
+SC,Blacksburg,Cherokee,unique_name_match
+SC,Blackville,Barnwell,unique_name_match
+SC,Bluffton,Beaufort,unique_name_match
+SC,Bowman,Orangeburg,unique_name_match
+SC,Branchville,Orangeburg,unique_name_match
+SC,Briarcliffe Acres,Horry,manual
+SC,Burnettown,Aiken,unique_name_match
+SC,Calhoun Falls,Abbeville,unique_name_match
+SC,Camden,Kershaw,unique_name_match
+SC,Cameron,Calhoun,unique_name_match
+SC,Campobello,Spartanburg,unique_name_match
+SC,Cayce,Lexington,unique_name_match
+SC,Central,Pickens,unique_name_match
+SC,Chapin,Lexington,unique_name_match
+SC,Charleston,Charleston,manual
+SC,Cheraw,Chesterfield,unique_name_match
+SC,Chesnee,Spartanburg,unique_name_match
+SC,Chester,Chester,unique_name_match
+SC,Chesterfield,Chesterfield,unique_name_match
+SC,Clemson,Pickens,unique_name_match
+SC,Clinton,Laurens,unique_name_match
+SC,Clio,Marlboro,unique_name_match
+SC,Clover,York,unique_name_match
+SC,Columbia,Richland,manual
+SC,Conway,Horry,unique_name_match
+SC,Cottageville,Colleton,unique_name_match
+SC,Coward,Florence,unique_name_match
+SC,Cowpens,Spartanburg,unique_name_match
+SC,Darlington,Darlington,unique_name_match
+SC,Denmark,Bamberg,unique_name_match
+SC,Dillon,Dillon,unique_name_match
+SC,Due West,Abbeville,unique_name_match
+SC,Duncan,Spartanburg,unique_name_match
+SC,Easley,Pickens,unique_name_match
+SC,Edgefield,Edgefield,unique_name_match
+SC,Edisto Beach,Colleton,unique_name_match
+SC,Ehrhardt,Bamberg,unique_name_match
+SC,Elgin,Kershaw,unique_name_match
+SC,Elloree,Orangeburg,unique_name_match
+SC,Estill,Hampton,unique_name_match
+SC,Eutawville,Orangeburg,unique_name_match
+SC,Florence,Florence,unique_name_match
+SC,Folly Beach,Charleston,unique_name_match
+SC,Forest Acres,Richland,unique_name_match
+SC,Fort Lawn,Chester,unique_name_match
+SC,Fort Mill,York,manual
+SC,Fountain Inn,Greenville,unique_name_match
+SC,Gaffney,Cherokee,unique_name_match
+SC,Gaston,Lexington,unique_name_match
+SC,Georgetown,Georgetown,unique_name_match
+SC,Gifford,Hampton,unique_name_match
+SC,Goose Creek,Berkeley,unique_name_match
+SC,Great Falls,Chester,unique_name_match
+SC,Greeleyville,Williamsburg,unique_name_match
+SC,Greenville,Greenville,unique_name_match
+SC,Greenwood,Greenwood,unique_name_match
+SC,Greer,Greenville,unique_name_match
+SC,Hampton,Hampton,unique_name_match
+SC,Hanahan,Berkeley,unique_name_match
+SC,Hardeeville,Jasper,unique_name_match
+SC,Harleyville,Dorchester,unique_name_match
+SC,Hartsville,Darlington,unique_name_match
+SC,Hemingway,Williamsburg,unique_name_match
+SC,Holly Hill,Orangeburg,unique_name_match
+SC,Honea Path,Anderson,unique_name_match
+SC,Inman,Spartanburg,unique_name_match
+SC,Irmo,Richland,unique_name_match
+SC,Isle of Palms,Charleston,unique_name_match
+SC,Iva,Anderson,unique_name_match
+SC,Jackson,Aiken,unique_name_match
+SC,Jamestown,Berkeley,unique_name_match
+SC,Johnsonville,Florence,unique_name_match
+SC,Johnston,Edgefield,unique_name_match
+SC,Jonesville,Union,unique_name_match
+SC,Kingstree,Williamsburg,unique_name_match
+SC,Lake City,Florence,unique_name_match
+SC,Lake View,Dillon,unique_name_match
+SC,Lamar,Darlington,unique_name_match
+SC,Lancaster,Lancaster,unique_name_match
+SC,Landrum,Spartanburg,unique_name_match
+SC,Lane,Williamsburg,unique_name_match
+SC,Latta,Dillon,unique_name_match
+SC,Laurens,Laurens,unique_name_match
+SC,Lexington,Lexington,unique_name_match
+SC,Liberty,Pickens,unique_name_match
+SC,Loris,Horry,unique_name_match
+SC,Lyman,Spartanburg,unique_name_match
+SC,Lynchburg,Lee,unique_name_match
+SC,Manning,Clarendon,unique_name_match
+SC,Marion,Marion,unique_name_match
+SC,Mauldin,Greenville,unique_name_match
+SC,McBee,Chesterfield,unique_name_match
+SC,McColl,Marlboro,unique_name_match
+SC,McCormick,Mccormick,unique_name_match
+SC,Moncks Corner,Berkeley,unique_name_match
+SC,Mount Pleasant,Charleston,unique_name_match
+SC,Mullins,Marion,unique_name_match
+SC,Myrtle Beach,Horry,unique_name_match
+SC,New Ellenton,Aiken,unique_name_match
+SC,Newberry,Newberry,unique_name_match
+SC,Nichols,Horry,unique_name_match
+SC,Ninety Six,Greenwood,unique_name_match
+SC,North,Orangeburg,unique_name_match
+SC,North Augusta,Aiken,unique_name_match
+SC,North Charleston,Charleston,manual
+SC,North Myrtle Beach,Horry,unique_name_match
+SC,Olanta,Florence,unique_name_match
+SC,Orangeburg,Orangeburg,unique_name_match
+SC,Pacolet,Spartanburg,unique_name_match
+SC,Pageland,Chesterfield,unique_name_match
+SC,Pamplico,Florence,unique_name_match
+SC,Pawleys Island,Georgetown,unique_name_match
+SC,Pelion,Lexington,unique_name_match
+SC,Pendleton,Anderson,unique_name_match
+SC,Perry,Aiken,unique_name_match
+SC,Pickens,Pickens,unique_name_match
+SC,Pine Ridge,Lexington,unique_name_match
+SC,Port Royal,Beaufort,unique_name_match
+SC,Prosperity,Newberry,unique_name_match
+SC,Quinby,Florence,unique_name_match
+SC,Ridge Spring,Saluda,unique_name_match
+SC,Ridgeland,Jasper,unique_name_match
+SC,Rock Hill,York,unique_name_match
+SC,Salem,Oconee,unique_name_match
+SC,Salley,Aiken,unique_name_match
+SC,Saluda,Saluda,unique_name_match
+SC,Santee,Orangeburg,unique_name_match
+SC,Scranton,Florence,unique_name_match
+SC,Seneca,Oconee,unique_name_match
+SC,Simpsonville,Greenville,unique_name_match
+SC,"Simpsonville3,",Greenville,unique_name_match
+SC,Society Hill,Darlington,unique_name_match
+SC,South Congaree,Lexington,unique_name_match
+SC,Spartanburg,Spartanburg,unique_name_match
+SC,Springdale,Lexington,unique_name_match
+SC,Springfield,Orangeburg,unique_name_match
+SC,St. George,Dorchester,unique_name_match
+SC,St. Matthews,Calhoun,unique_name_match
+SC,St. Stephen,Berkeley,unique_name_match
+SC,Sullivans Island,Charleston,unique_name_match
+SC,Summerton,Clarendon,unique_name_match
+SC,Summerville,Dorchester,unique_name_match
+SC,Sumter,Sumter,unique_name_match
+SC,Surfside Beach,Horry,unique_name_match
+SC,Swansea,Lexington,unique_name_match
+SC,Tega Cay,York,unique_name_match
+SC,Travelers Rest,Greenville,unique_name_match
+SC,Turbeville,Clarendon,unique_name_match
+SC,Union,Union,unique_name_match
+SC,Wagener,Aiken,unique_name_match
+SC,Walhalla,Oconee,unique_name_match
+SC,Walterboro,Colleton,unique_name_match
+SC,Ware Shoals,Greenwood,unique_name_match
+SC,Wellford,Spartanburg,unique_name_match
+SC,West Columbia,Lexington,unique_name_match
+SC,West Pelzer,Anderson,manual
+SC,West Union,Oconee,unique_name_match
+SC,Westminster,Oconee,unique_name_match
+SC,Whitmire,Newberry,unique_name_match
+SC,Williamston,Anderson,unique_name_match
+SC,Williston,Barnwell,unique_name_match
+SC,Winnsboro,Fairfield,unique_name_match
+SC,Woodruff,Spartanburg,unique_name_match
+SC,Yemassee,Hampton,unique_name_match
+SC,York,York,unique_name_match
+WY,Afton,Lincoln,unique_name_match
+WY,Buffalo,Johnson,unique_name_match
+WY,Casper,Natrona,manual
+WY,Cheyenne,Laramie,unique_name_match
+WY,Cody,Park,unique_name_match
+WY,Diamondville,Lincoln,unique_name_match
+WY,Douglas,Converse,unique_name_match
+WY,Evanston,Uinta,unique_name_match
+WY,Evansville,Natrona,unique_name_match
+WY,Gillette,Campbell,unique_name_match
+WY,Glenrock,Converse,unique_name_match
+WY,Green River,Sweetwater,unique_name_match
+WY,Greybull,Big Horn,unique_name_match
+WY,Guernsey,Platte,unique_name_match
+WY,Hanna,Carbon,unique_name_match
+WY,Hulett,Crook,unique_name_match
+WY,Jackson,Teton,unique_name_match
+WY,Kemmerer,Lincoln,unique_name_match
+WY,Lander,Fremont,unique_name_match
+WY,Laramie,Albany,unique_name_match
+WY,Lovell,Big Horn,unique_name_match
+WY,Lusk,Niobrara,unique_name_match
+WY,Mills,Natrona,unique_name_match
+WY,Moorcroft,Crook,unique_name_match
+WY,Newcastle,Weston,unique_name_match
+WY,Pine Bluffs,Laramie,unique_name_match
+WY,Powell,Park,unique_name_match
+WY,Rawlins,Carbon,manual
+WY,Riverton,Fremont,unique_name_match
+WY,Rock Springs,Sweetwater,unique_name_match
+WY,Saratoga,Carbon,unique_name_match
+WY,Sheridan,Sheridan,unique_name_match
+WY,Sundance,Crook,unique_name_match
+WY,Thermopolis,Hot Springs,unique_name_match
+WY,Torrington,Goshen,unique_name_match
+WY,Wheatland,Platte,unique_name_match
+WY,Worland,Washakie,manual

@@ -1,0 +1,37 @@
+period,group,outcome,n,mean,sd
+2013-2019,Control states,Violent crime,2535,379.2,391.8
+2013-2019,Control states,Aggravated assault,2535,283.5,312.9
+2013-2019,Control states,Property crime,2503,2784.9,2200.9
+2013-2019,Control states,Burglary,2511,555.3,518.8
+2013-2019,Control states,Larceny-theft,2526,2068.9,1733.7
+2013-2019,Control states,Motor vehicle theft,2532,165.8,174.4
+2013-2019,California,Violent crime,3224,476.9,2049
+2013-2019,California,Aggravated assault,3224,282.5,954.1
+2013-2019,California,Property crime,3223,4305.3,28398.3
+2013-2019,California,Burglary,3224,780.7,4356.9
+2013-2019,California,Larceny-theft,3223,2810.8,18783.9
+2013-2019,California,Motor vehicle theft,3224,713.5,5901.3
+2013-2015,Control states,Violent crime,1096,376.7,375.2
+2013-2015,Control states,Aggravated assault,1096,280.1,292.3
+2013-2015,Control states,Property crime,1088,3019.7,2375.5
+2013-2015,Control states,Burglary,1090,642.2,562.7
+2013-2015,Control states,Larceny-theft,1094,2222.8,1868.1
+2013-2015,Control states,Motor vehicle theft,1094,159.4,183.5
+2013-2015,California,Violent crime,1384,450.3,1757
+2013-2015,California,Aggravated assault,1384,280,916.4
+2013-2015,California,Property crime,1384,4262.9,26152
+2013-2015,California,Burglary,1384,772.4,3061.3
+2013-2015,California,Larceny-theft,1384,2770.8,17490.7
+2013-2015,California,Motor vehicle theft,1384,719.7,5861.7
+2016-2019,Control states,Violent crime,1439,381.2,404.2
+2016-2019,Control states,Aggravated assault,1439,286,327.8
+2016-2019,Control states,Property crime,1415,2604.3,2039.2
+2016-2019,Control states,Burglary,1421,488.6,472
+2016-2019,Control states,Larceny-theft,1432,1951.4,1614.4
+2016-2019,Control states,Motor vehicle theft,1438,170.7,167.1
+2016-2019,California,Violent crime,1840,496.9,2243.9
+2016-2019,California,Aggravated assault,1840,284.4,981.7
+2016-2019,California,Property crime,1839,4337.3,29985.1
+2016-2019,California,Burglary,1840,786.9,5120.6
+2016-2019,California,Larceny-theft,1839,2840.9,19705.9
+2016-2019,California,Motor vehicle theft,1840,708.9,5932.4

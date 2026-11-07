@@ -1,0 +1,85 @@
+outcome,weighting,year,coef,ci_low,ci_high,p_value
+Violent crime,unweighted,2013,-58.17,-118.532,2.192,0.059
+Violent crime,unweighted,2014,-1.288,-35.104,32.528,0.94
+Violent crime,unweighted,2015,0,0,0,
+Violent crime,unweighted,2016,39.246,-26.313,104.805,0.24
+Violent crime,unweighted,2017,39.89,-3.429,83.209,0.071
+Violent crime,unweighted,2018,14.616,-40.614,69.845,0.604
+Violent crime,unweighted,2019,-3.281,-41.759,35.197,0.867
+Violent crime,population-weighted,2013,-1.483,-58.292,55.326,0.959
+Violent crime,population-weighted,2014,-16.711,-48.117,14.695,0.297
+Violent crime,population-weighted,2015,0,0,0,
+Violent crime,population-weighted,2016,-3.718,-29.191,21.756,0.775
+Violent crime,population-weighted,2017,8.889,-23.409,41.187,0.589
+Violent crime,population-weighted,2018,-8.711,-53.014,35.592,0.7
+Violent crime,population-weighted,2019,-21.026,-62.73,20.677,0.323
+Aggravated assault,unweighted,2013,-39.729,-82.356,2.898,0.068
+Aggravated assault,unweighted,2014,-5.922,-30.683,18.839,0.639
+Aggravated assault,unweighted,2015,0,0,0,
+Aggravated assault,unweighted,2016,2.378,-35.091,39.848,0.901
+Aggravated assault,unweighted,2017,-6.699,-35.754,22.356,0.651
+Aggravated assault,unweighted,2018,-30.621,-64.184,2.943,0.074
+Aggravated assault,unweighted,2019,-32.26,-66.23,1.71,0.063
+Aggravated assault,population-weighted,2013,-12.936,-50.072,24.2,0.494
+Aggravated assault,population-weighted,2014,-11.225,-36.986,14.536,0.393
+Aggravated assault,population-weighted,2015,0,0,0,
+Aggravated assault,population-weighted,2016,-12.407,-33.914,9.1,0.258
+Aggravated assault,population-weighted,2017,-8.542,-32.207,15.123,0.479
+Aggravated assault,population-weighted,2018,-23.396,-65.344,18.552,0.274
+Aggravated assault,population-weighted,2019,-36.487,-78.938,5.963,0.092
+Property crime,unweighted,2013,-391.077,-655.576,-126.577,0.004
+Property crime,unweighted,2014,-286.683,-436.97,-136.396,0
+Property crime,unweighted,2015,0,0,0,
+Property crime,unweighted,2016,220.156,-228.811,669.123,0.336
+Property crime,unweighted,2017,106.914,-484.754,698.583,0.723
+Property crime,unweighted,2018,70.701,-348,489.401,0.74
+Property crime,unweighted,2019,652.848,-212.421,1518.118,0.139
+Property crime,population-weighted,2013,-232.428,-335.458,-129.398,0
+Property crime,population-weighted,2014,-289.607,-408.475,-170.739,0
+Property crime,population-weighted,2015,0,0,0,
+Property crime,population-weighted,2016,-118.676,-225.359,-11.993,0.029
+Property crime,population-weighted,2017,-88.208,-228.985,52.57,0.219
+Property crime,population-weighted,2018,-96.156,-292.983,100.672,0.338
+Property crime,population-weighted,2019,129.104,-66.116,324.324,0.195
+Burglary,unweighted,2013,-49.509,-169.703,70.685,0.419
+Burglary,unweighted,2014,-66.693,-176.082,42.695,0.232
+Burglary,unweighted,2015,0,0,0,
+Burglary,unweighted,2016,48.098,-37.038,133.233,0.268
+Burglary,unweighted,2017,85.461,-39.932,210.855,0.181
+Burglary,unweighted,2018,123.127,-82.169,328.424,0.239
+Burglary,unweighted,2019,243.55,-158.711,645.81,0.235
+Burglary,population-weighted,2013,8.224,-35.482,51.929,0.712
+Burglary,population-weighted,2014,-6.76,-39.893,26.372,0.689
+Burglary,population-weighted,2015,0,0,0,
+Burglary,population-weighted,2016,-20.059,-44.717,4.6,0.111
+Burglary,population-weighted,2017,0.539,-33.599,34.677,0.975
+Burglary,population-weighted,2018,-19.19,-53.864,15.483,0.278
+Burglary,population-weighted,2019,31.568,-3.143,66.28,0.075
+Larceny-theft,unweighted,2013,-399.619,-596.472,-202.765,0
+Larceny-theft,unweighted,2014,-197.238,-330.678,-63.798,0.004
+Larceny-theft,unweighted,2015,0,0,0,
+Larceny-theft,unweighted,2016,54.216,-165.824,274.257,0.629
+Larceny-theft,unweighted,2017,-18.732,-322.758,285.294,0.904
+Larceny-theft,unweighted,2018,7.862,-160.976,176.7,0.927
+Larceny-theft,unweighted,2019,547.344,-56.729,1151.416,0.076
+Larceny-theft,population-weighted,2013,-248.148,-322.496,-173.8,0
+Larceny-theft,population-weighted,2014,-241.78,-335.457,-148.104,0
+Larceny-theft,population-weighted,2015,0,0,0,
+Larceny-theft,population-weighted,2016,-94.648,-174.94,-14.357,0.021
+Larceny-theft,population-weighted,2017,-55.857,-162.581,50.867,0.305
+Larceny-theft,population-weighted,2018,5.932,-141.312,153.177,0.937
+Larceny-theft,population-weighted,2019,202.272,34.602,369.942,0.018
+Motor vehicle theft,unweighted,2013,56.166,-36.088,148.42,0.232
+Motor vehicle theft,unweighted,2014,-18.996,-89.862,51.87,0.599
+Motor vehicle theft,unweighted,2015,0,0,0,
+Motor vehicle theft,unweighted,2016,114.467,-49.536,278.47,0.171
+Motor vehicle theft,unweighted,2017,36.086,-154.651,226.822,0.71
+Motor vehicle theft,unweighted,2018,-57.964,-167.745,51.817,0.3
+Motor vehicle theft,unweighted,2019,-138.261,-247.959,-28.564,0.014
+Motor vehicle theft,population-weighted,2013,6.022,-17.852,29.896,0.621
+Motor vehicle theft,population-weighted,2014,-41.31,-63.303,-19.318,0
+Motor vehicle theft,population-weighted,2015,0,0,0,
+Motor vehicle theft,population-weighted,2016,-8.43,-33.083,16.223,0.502
+Motor vehicle theft,population-weighted,2017,-33.667,-70.224,2.889,0.071
+Motor vehicle theft,population-weighted,2018,-76.571,-119.401,-33.741,0
+Motor vehicle theft,population-weighted,2019,-102.517,-143.231,-61.803,0

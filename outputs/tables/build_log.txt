@@ -1,0 +1,4 @@
+UCR city-year rows after dropping blank/header rows: 5,759
+City names with FBI footnote digits removed: 157
+City-years without a county match: 0
+Skipped unemployment sheet: kansas.xls / Sheet63: no county identifier

@@ -1,0 +1,31 @@
+outcome,specification,coef,se,p_value,n,pct_of_ca_pre_mean
+Violent crime,"(1) City and year FE, 2013-2019",43.1,26.6,0.105,5706,9.6
+Violent crime,"(2) City and year FE, 2014-2019",22.8,18.9,0.229,4874,5.1
+Violent crime,"(3) + population, county unemployment",7.6,18.8,0.687,4713,1.7
+Violent crime,(4) + county income proxy (excl. Kansas),8.5,20.8,0.685,4026,1.9
+Violent crime,"(5) City and year FE, population-weighted",-0.5,28.1,0.987,5706,-0.1
+Aggravated assault,"(1) City and year FE, 2013-2019",-1,10.4,0.927,5706,-0.3
+Aggravated assault,"(2) City and year FE, 2014-2019",-13.8,9.7,0.157,4874,-4.9
+Aggravated assault,"(3) + population, county unemployment",-29.3,12.1,0.016,4713,-10.5
+Aggravated assault,(4) + county income proxy (excl. Kansas),-30.6,13.8,0.027,4026,-10.9
+Aggravated assault,"(5) City and year FE, population-weighted",-12.2,21.2,0.568,5706,-4.3
+Property crime,"(1) City and year FE, 2013-2019",485.4,240.4,0.044,5673,11.4
+Property crime,"(2) City and year FE, 2014-2019",406.9,246.3,0.099,4843,9.5
+Property crime,"(3) + population, county unemployment",416.7,255.9,0.104,4683,9.8
+Property crime,(4) + county income proxy (excl. Kansas),518.3,308.2,0.093,4018,12.2
+Property crime,"(5) City and year FE, population-weighted",121.5,78.3,0.121,5673,2.9
+Burglary,"(1) City and year FE, 2013-2019",161.1,105.1,0.126,5681,20.9
+Burglary,"(2) City and year FE, 2014-2019",155.1,97.8,0.113,4851,20.1
+Burglary,"(3) + population, county unemployment",164.2,110.8,0.139,4691,21.3
+Burglary,(4) + county income proxy (excl. Kansas),202.4,135.9,0.137,4022,26.2
+Burglary,"(5) City and year FE, population-weighted",-2.8,18.7,0.882,5681,-0.4
+Larceny-theft,"(1) City and year FE, 2013-2019",343.2,120.5,0.004,5697,12.4
+Larceny-theft,"(2) City and year FE, 2014-2019",247.1,112.8,0.029,4865,8.9
+Larceny-theft,"(3) + population, county unemployment",276.3,131,0.035,4704,10
+Larceny-theft,(4) + county income proxy (excl. Kansas),338.6,148.6,0.023,4023,12.2
+Larceny-theft,"(5) City and year FE, population-weighted",170,55.6,0.002,5697,6.1
+Motor vehicle theft,"(1) City and year FE, 2013-2019",-21.1,56.4,0.709,5704,-2.9
+Motor vehicle theft,"(2) City and year FE, 2014-2019",1.9,62.6,0.976,4872,0.3
+Motor vehicle theft,"(3) + population, county unemployment",-26.9,54.2,0.62,4711,-3.7
+Motor vehicle theft,(4) + county income proxy (excl. Kansas),-25.5,73.7,0.729,4024,-3.5
+Motor vehicle theft,"(5) City and year FE, population-weighted",-44.6,17.1,0.009,5704,-6.2
