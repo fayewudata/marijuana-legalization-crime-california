@@ -2,7 +2,7 @@
 
 Did California's 2016 legalization of recreational marijuana (Proposition 64) increase crime? This project compares 959 California and control-state cities over 2013–2019 in a two-way fixed-effects difference-in-differences design, using FBI Uniform Crime Reporting data. The control group is cities in Idaho, Kansas, South Carolina, and Wyoming, which allowed neither medical nor recreational marijuana during the period.
 
-**Tools:** R (fixest, dplyr, ggplot2), Python (pandas, pyfixest)
+**Tools:** R (fixest, dplyr, ggplot2), Python (pandas, pyfixest), Stata
 
 **Date:** Economics Honors Thesis, University of California, Irvine, 2024–2025
 
