@@ -1,0 +1,10 @@
+# Python cross-check outputs (regenerate with python python/run_all.py)
+data/processed/python/
+outputs/python/
+
+__pycache__/
+.Rhistory
+.RData
+.Rproj.user/
+.ipynb_checkpoints/
+.DS_Store
