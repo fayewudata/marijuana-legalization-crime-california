@@ -2,7 +2,7 @@
 
 Did California's 2016 legalization of recreational marijuana (Proposition 64) increase crime? This economics honors thesis compares California cities with cities in Idaho, Kansas, South Carolina, and Wyoming, which allowed neither medical nor recreational marijuana, over 2013–2019 using a two-way fixed-effects difference-in-differences design and FBI Uniform Crime Reporting data.
 
-**Thesis tools:** Python, Stata · **Public pipeline:** R (fixest, dplyr, ggplot2), Python (pandas, pyfixest)
+**Thesis tools:** R (fixest, dplyr, ggplot2), Python (pandas, pyfixest)
 
 **Date:** Economics Honors Thesis, University of California, Irvine, September 2024 – June 2025
 
