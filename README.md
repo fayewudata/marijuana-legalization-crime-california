@@ -25,12 +25,6 @@ Did California's 2016 legalization of recreational marijuana (Proposition 64) in
 
 The thesis also flagged Proposition 47 (2014), which reduced penalties for theft under $950, as a likely confounder and proposed an event study, a timing split, and population weighting as extensions.
 
-## Reproducibility Note
-
-After submission, I rewrote the analysis as public, reproducible code in R, with an independent Python implementation. Building it from the raw spreadsheets corrected how county controls are matched to cities and how rates are labeled, so some estimates here differ from the PDF ([`R/02_audit_original_data.R`](R/02_audit_original_data.R), [`audit_checks.csv`](outputs/tables/audit_checks.csv)). The main conclusion is unchanged: there is no effect on violent crime in any specification and no support for a large increase in crime. With correctly merged controls, the property-crime estimate does not fall; the event study the thesis proposed shows California's property-crime and larceny gap opened between 2013 and 2015, before legalization and in line with Proposition 47.
-
-![Event study](outputs/figures/event_study.png)
-
 ### Estimates from the public pipeline
 
 Two-way fixed-effects difference-in-differences, offenses per 100,000 residents. Standard errors clustered by city; p-values in parentheses.
