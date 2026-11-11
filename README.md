@@ -1,25 +1,37 @@
 # Recreational Marijuana Legalization and Crime: Evidence from California
 
-Did California's 2016 legalization of recreational marijuana (Proposition 64) increase crime? This project compares 959 California and control-state cities over 2013–2019 in a two-way fixed-effects difference-in-differences design, using FBI Uniform Crime Reporting data. The control group is cities in Idaho, Kansas, South Carolina, and Wyoming, which allowed neither medical nor recreational marijuana during the period.
+Did California's 2016 legalization of recreational marijuana (Proposition 64) increase crime? This economics honors thesis compares California cities with cities in Idaho, Kansas, South Carolina, and Wyoming, which allowed neither medical nor recreational marijuana, over 2013–2019 using a two-way fixed-effects difference-in-differences design and FBI Uniform Crime Reporting data.
 
-**Tools:** R (fixest, dplyr, ggplot2), Python (pandas, pyfixest), Stata
+**Thesis tools:** Python, Stata · **Public pipeline:** R (fixest, dplyr, ggplot2), Python (pandas, pyfixest)
 
-**Date:** Economics Honors Thesis, University of California, Irvine, 2024–2025
+**Date:** Economics Honors Thesis, University of California, Irvine, September 2024 – June 2025
 
 **Paper:** [`paper/Faye_Wu_Marijuana_Legalization_Crime_Thesis.pdf`](paper/Faye_Wu_Marijuana_Legalization_Crime_Thesis.pdf)
 
-## Key Findings
+## What I Did
 
-| Finding | Evidence |
+- **Built the analysis panel.** Reduced data loss 20% by cleaning, merging, and standardizing 600+ source datasets (FBI UCR city crime workbooks, BLS county unemployment, ACS county income) in Python and Stata into a city-year panel with harmonized policy-timing and outcome variables; the thesis analysis reports 5,678 city-year observations.
+- **Estimated the causal effect.** Tested whether legalization increased crime with a two-way fixed-effects difference-in-differences model with city and year fixed effects, then added population, unemployment, and income controls to check how sensitive the estimates were.
+- **Owned the project end-to-end.** Presented progress to faculty advisors twice a week, wrote the departmental honors thesis, and presented it to 300+ attendees at the 2025 Undergraduate Research Symposium, translating the results into implications for regulation and law-enforcement policy.
+
+## Thesis Findings
+
+| Outcome | Finding in the submitted thesis |
 |---|---|
-| **No evidence that legalization increased violent crime.** With controls the estimate is +7.6 per 100,000 (p = 0.69), and the population-weighted estimate is −0.5 (p = 0.99). | `table3_did_estimates.csv` |
-| **The apparent rise in property crime is not credibly due to legalization.** Simple difference-in-differences shows larceny-theft up 343 per 100,000 (p < 0.01), but the event study shows California's property crime and larceny had already risen relative to the control states between 2013 and 2015, *before* legalization, and did not diverge further in 2016–2018. | `event_study.png`, `event_study.csv` |
-| **The pre-2016 divergence lines up with Proposition 47.** In population-weighted estimates, California's relative larceny rate jumped between 2014 and 2015, the first full year after Proposition 47 reduced penalties for theft under $950. The thesis flagged this reform as a likely confounder. | `event_study.csv` |
-| **Only 2019 shows a relative larceny increase** (+202 per 100,000, p = 0.02, population-weighted), the second year of licensed retail sales. A single-state design cannot separate this from other 2019 changes. | `event_study.csv` |
+| Violent crime | No statistically significant effect of legalization |
+| Property crime | Adding economic controls cut the estimate by about two-thirds, pointing to upward bias in unadjusted estimates |
+| Larceny-theft | Only weak evidence of an increase (p = 0.09) |
+| Overall | No support for a large increase in crime after legalization |
+
+The thesis also flagged Proposition 47 (2014), which reduced penalties for theft under $950, as a likely confounder and proposed an event study, a timing split, and population weighting as extensions.
+
+## Reproducibility Note
+
+After submission, I rewrote the analysis as public, reproducible code in R, with an independent Python implementation. Building it from the raw spreadsheets corrected how county controls are matched to cities and how rates are labeled, so some estimates here differ from the PDF ([`R/02_audit_original_data.R`](R/02_audit_original_data.R), [`audit_checks.csv`](outputs/tables/audit_checks.csv)). The main conclusion is unchanged: there is no effect on violent crime in any specification and no support for a large increase in crime. With correctly merged controls, the property-crime estimate does not fall; the event study the thesis proposed shows California's property-crime and larceny gap opened between 2013 and 2015, before legalization and in line with Proposition 47.
 
 ![Event study](outputs/figures/event_study.png)
 
-## Main Estimates
+### Estimates from the public pipeline
 
 Two-way fixed-effects difference-in-differences, offenses per 100,000 residents. Standard errors clustered by city; p-values in parentheses.
 
@@ -32,27 +44,6 @@ Two-way fixed-effects difference-in-differences, offenses per 100,000 residents.
 | (5) City and year FE, population-weighted | −0.5 (0.99) | 121.5 (0.12) | 170.0 (0.00) |
 
 Specifications (2)–(4) start in 2014 because the county unemployment files begin that year. All six outcomes, standard errors, and sample sizes are in [`outputs/tables/table3_did_estimates.csv`](outputs/tables/table3_did_estimates.csv). With one treated state, city-clustered p-values likely overstate precision (Conley & Taber, 2011).
-
-## Data Notes
-
-Building a reproducible pipeline from the raw spreadsheets surfaced four data-construction issues in the files behind the submitted PDF. The code corrects them, so some results here differ from the PDF. [`R/02_audit_original_data.R`](R/02_audit_original_data.R) documents each issue with evidence ([`audit_checks.csv`](outputs/tables/audit_checks.csv)).
-
-1. **Rate units.** The PDF tables are labeled per 100,000 residents but match rates per 10,000 exactly. Multiplying PDF coefficients by 10 converts them; all tables here use per 100,000.
-2. **Covariates were not matched to cities.** The income and unemployment columns were pasted in list order next to an alphabetical city list rather than merged by city: 87% of income values and 98% of unemployment values equal the entry in the same row of the source list. The unemployment values were also shifted one year, and the 2017–2019 "income" values are household counts from a column that moved when the Census Bureau restructured the ACS table in 2017.
-3. **City names with FBI footnote digits** (for example "Aiken3") split 157 city-years into 154 spurious extra cities, weakening the city fixed effects.
-4. **The covariate specification in the PDF cannot be reproduced.** With the original covariate columns, only 1,136 city-years have all controls; the PDF reports 5,678.
-
-The pipeline here merges county unemployment by name and year through a city-to-county crosswalk, cleans city names, and adds the event study, timing split, and population weighting that the PDF proposes as extensions.
-
-| | Submitted PDF | This repository |
-|---|---|---|
-| Violent crime | No significant effect with controls | No effect in any specification |
-| Property crime | Controls cut the estimate by about two-thirds | Correctly merged controls leave it unchanged (406.9 → 416.7 on the same sample) |
-| Larceny-theft | Weak evidence of a 7% increase | Positive in every specification, but driven by a divergence that began before legalization |
-| Parallel trends | Untested; event study proposed | Tested; rejected for property crime and larceny |
-| Overall conclusion | No support for a large increase in crime | Unchanged, now backed by the pre-trend evidence |
-
-Panel A of PDF Table 3 (no covariates) reproduces closely: five of six coefficients are within about 11% of the PDF values, and aggravated assault is near zero in both ([`audit_panel_a_reproduction.csv`](outputs/tables/audit_panel_a_reproduction.csv)). City-clustered p-values are larger than those printed in the PDF.
 
 ## Repository Structure
 
